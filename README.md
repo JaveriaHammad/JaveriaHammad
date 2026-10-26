@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineering Student | Aspiring Software Engineer
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a Software Engineering student passionate about programming, technology, and problem-solving. I enjoy learning new concepts, exploring modern technologies, and developing my skills through practical work and academic projects.
 
